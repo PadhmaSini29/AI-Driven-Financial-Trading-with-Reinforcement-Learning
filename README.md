@@ -1,6 +1,4 @@
 # AI-Driven-Financial-Trading-with-Reinforcement-Learning
-# Create a README file for the RL-based financial trading project
-readme_content = """# 🧠 RL-Based Financial Trading System
 
 This project implements a Reinforcement Learning (RL) framework for financial decision-making, including stock trading, derivatives pricing, and market-making. It leverages algorithms like **Proximal Policy Optimization (PPO)** and **Deep Q-Networks (DQN)** using the `stable-baselines3` library.
 
